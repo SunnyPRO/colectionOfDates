@@ -1,0 +1,14 @@
+[
+	{	       
+		"FirstName":"Ion", 
+		"LastName":"Ostafi",
+		"Department": "CD",
+	    "Salary":500
+    },
+    {	       
+		"FirstName":" Daniel", 
+		"LastName":"Mititel",
+		"Department": "CD",
+	    "Salary":500
+    }
+]
